@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="guicedee.services.jakarta.xml.bind.api" type="repository">
+    <properties maven-id="com.guicedee.services:jakarta.xml.bind-api:62" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.xml.bind-api-62.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.activation-62.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.validation-api-62.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stax2-api-4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stax-ex-1.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

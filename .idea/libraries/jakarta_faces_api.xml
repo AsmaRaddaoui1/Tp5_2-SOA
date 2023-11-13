@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jakarta.faces.api" type="repository">
+    <properties maven-id="jakarta.faces:jakarta.faces-api:4.0.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.faces-api-4.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.faces-api-4.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

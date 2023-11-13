@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="fujieid.jap.http.adapter.jakarta" type="repository">
+    <properties maven-id="com.fujieid.jap.http.adapter:jap-http-jakarta-adapter:1.0.3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jap-http-jakarta-adapter-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jap-http-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.servlet-api-4.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
